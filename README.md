@@ -1,3 +1,4 @@
+![E-Commerce SQL Business Analysis](ecommerce-sql-analysis-cover.png)
 # E-Commerce SQL Business Analysis
 
 An SQL-based analysis of e-commerce transaction data using **PostgreSQL** to prepare data, analyze transaction and revenue patterns, and generate business insights using CTEs, subqueries, date functions, aggregations, and window functions.
